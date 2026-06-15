@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/martinblech/xmltodict/compare/v1.0.4...v1.0.5) (2026-06-15)
+
+
+### Documentation
+
+* **readme:** clarify whitespace preservation with pretty printing ([77b55aa](https://github.com/martinblech/xmltodict/commit/77b55aa159add632bafdf721f61d86f06210f235))
+
 ## [1.0.4](https://github.com/martinblech/xmltodict/compare/v1.0.3...v1.0.4) (2026-02-22)
 
 
